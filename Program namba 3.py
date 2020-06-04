@@ -1,5 +1,5 @@
 from random import randint
-#my first program
+#my second program
 #listing vegetables
 global greens
 greens=["sukuma_wiki","Terere","Kunde","Murenda","Speenach","Cabbage"]
